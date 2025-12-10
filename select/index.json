@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SugarCrash!",
+  "base_artist": "ElyOtto",
+  "createdAt": "2025-12-10T10:46:19.740081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SugarCrash!",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/01_SugarCrash!_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SugarCrash! 2 (Notice Me Senpai)",
+      "artist": "Bemax",
+      "has_synced": true,
+      "path": "select/02_SugarCrash!_2_(Notice_Me_Senpai)_Bemax.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SugarCrash!",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/03_SugarCrash!_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SugarCrash!",
+      "artist": "Bemax",
+      "has_synced": true,
+      "path": "select/04_SugarCrash!_Bemax.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SugarCrash! 3",
+      "artist": "Bemax",
+      "has_synced": true,
+      "path": "select/05_SugarCrash!_3_Bemax.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SugarCrash! 2 (Notice Me Senpai)",
+      "artist": "Bemax",
+      "has_synced": true,
+      "path": "select/06_SugarCrash!_2_(Notice_Me_Senpai)_Bemax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SugarCrash! (feat. Kim Petras & Curtis Waters)",
+      "artist": "ElyOtto feat. Kim Petras & Curtis Waters",
+      "has_synced": true,
+      "path": "select/07_SugarCrash!_(feat._Kim_Petras_&_Curtis_Waters)_ElyOtto_feat._Kim_Petras_&_Curtis_Waters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SugarCrash! (feat. Kim Petras & Curtis Waters)",
+      "artist": "ElyOtto,Kim Petras,Curtis Waters",
+      "has_synced": true,
+      "path": "select/08_SugarCrash!_(feat._Kim_Petras_&_Curtis_Waters)_ElyOtto,Kim_Petras,Curtis_Waters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SugarCrash! (feat. Kim Petras & Curtis Waters)",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/09_SugarCrash!_(feat._Kim_Petras_&_Curtis_Waters)_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SugarCrash!",
+      "artist": "ElYotto",
+      "has_synced": true,
+      "path": "select/10_SugarCrash!_ElYotto.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ElyOtto - SugarCrash! (Official Video)",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/11_ElyOtto_-_SugarCrash!_(Official_Video)_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SugarCrash! 2 (Notice Me Senpai)",
+      "artist": "Bemax - ベマックス",
+      "has_synced": true,
+      "path": "select/12_SugarCrash!_2_(Notice_Me_Senpai)_Bemax_-_ベマックス.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SugarCrash! 3",
+      "artist": "Video • BeMax",
+      "has_synced": true,
+      "path": "select/13_SugarCrash!_3_Video_•_BeMax.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SugarCrash!",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/14_SugarCrash!_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SugarCrash! (Official Video)",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/15_SugarCrash!_(Official_Video)_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SugarCrash! 2 (Notice Me Senpai)",
+      "artist": "BeMax",
+      "has_synced": true,
+      "path": "select/16_SugarCrash!_2_(Notice_Me_Senpai)_BeMax.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SugarCrash!",
+      "artist": "ElyOtto",
+      "has_synced": false,
+      "path": "select/pl_01_SugarCrash!_ElyOtto.txt"
+    }
+  ]
+}
